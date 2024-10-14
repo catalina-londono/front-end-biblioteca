@@ -1,0 +1,19 @@
+{
+  "app": {
+    "background": {
+    }
+  },
+  "manifest_version": 2,
+  "version": "1.0",
+ "name": "Biblioteca IU Digital",
+ "short_name": "Biblioteca IUD",
+ "display": "standalone",
+ "start_url": "/",
+ "background_color": "#C52331",
+ "default_locale": "es",
+ "autor" : "Institución Universitaria Digital de Antioquia",
+ "icons": [
+ ],
+ "screenshots": [
+ ]
+}
